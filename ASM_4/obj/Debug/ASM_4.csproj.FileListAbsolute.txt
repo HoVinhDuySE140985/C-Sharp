@@ -1,0 +1,13 @@
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\bin\Debug\ASM_4.exe.config
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\bin\Debug\ASM_4.exe
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\bin\Debug\ASM_4.pdb
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.frmBookReport.resources
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.frmChangeAccount.resources
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.frmLogin.resources
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.frmMaintainBooks.resources
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.Properties.Resources.resources
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.csproj.GenerateResource.cache
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.csproj.CoreCompileInputs.cache
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.exe
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.pdb
+E:\KiemHH\BT\BT_NOP\ASM_4\ASM_4\obj\Debug\ASM_4.csproj.AssemblyReference.cache
